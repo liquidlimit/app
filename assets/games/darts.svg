@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Cartoon-Dartscheibe im Liquid-Limit-Stil: Ink-Outlines, Palette-Farben -->
+  <circle cx="58" cy="62" r="50" fill="#241f2e"/>
+  <circle cx="58" cy="62" r="44" fill="#fdf4e3" stroke="#241f2e" stroke-width="3"/>
+  <circle cx="58" cy="62" r="33" fill="#ff5b4d" stroke="#241f2e" stroke-width="3"/>
+  <circle cx="58" cy="62" r="22" fill="#fdf4e3" stroke="#241f2e" stroke-width="3"/>
+  <circle cx="58" cy="62" r="12" fill="#17c3a7" stroke="#241f2e" stroke-width="3"/>
+  <circle cx="58" cy="62" r="4.5" fill="#f4c945" stroke="#241f2e" stroke-width="3"/>
+  <!-- Dart: Spitze im Bullseye, Flug oben rechts -->
+  <g stroke="#241f2e" stroke-width="3" stroke-linecap="round">
+    <line x1="60" y1="60" x2="94" y2="26"/>
+    <path d="M94 26 L104 10 L110 16 Z" fill="#8b5cf6" stroke-linejoin="round"/>
+    <path d="M94 26 L110 16 L114 22 L100 32 Z" fill="#8b5cf6" stroke-linejoin="round"/>
+  </g>
+</svg>
